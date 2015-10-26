@@ -1,0 +1,14 @@
+diff a/index.html b/index.html	(rejected hunks)
+@@ -4,7 +4,8 @@
+ 		<title>test</title>
+ 	</head>
+ 	<body>
+-		<h1>Får du opp dette nå, Martin?</h1>
+-		<p>Laster det opp nå, din bæsh<p>
++		<h1>FÃ¥r du opp dette nÃ¥, Martin?</h1>
++		<p>Laster det opp nÃ¥, din bÃ¦sh<p>
++		<h2>Ivo er best og det vet alle! ::D:D:D</h2>
+ 	</body>
+-</html>
+\ No newline at end of file
++</html>
